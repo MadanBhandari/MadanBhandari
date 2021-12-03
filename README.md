@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Madan's GitHub stats](https://github-readme-stats.vercel.app/api?username=madanbhandari)](https://github.com/anuraghazra/github-readme-stats)
+Here are those github stats :
+
+[![Madan's GitHub stats](https://github-readme-stats.vercel.app/api?username=madanbhandari)](https://github.com/madanbhandari)
 
 
 <!--
