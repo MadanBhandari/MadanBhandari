@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-Here are those github stats :
 
-[![Madan's GitHub stats](https://github-readme-stats.vercel.app/api?username=madanbhandari)](https://github.com/madanbhandari)
+[![Madan's GitHub stats](https://github-readme-stats.vercel.app/api?username=madanbhandari&show_icons=true&theme=radical&)](https://github.com/madanbhandari)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madanbhandari)](https://github.com/madanbhandari)
 
 
 <!--
